@@ -1,4 +1,2 @@
 # debitorka
-Schems debitorka
-
-Site - https://debitorka.online/
+Схемы проекта https://debitorka.online/
